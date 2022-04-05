@@ -1,6 +1,21 @@
 body{
-    background-color: rgb(97, 143, 117);
+    background-color: rgb(235, 235, 235);
 }
+
 .welcome{
     text-align: center;
 }
+
+#tool{
+    width: auto;
+    height: 75px;
+}
+
+.tool{ 
+    text-decoration: none;
+    color: black;
+     margin-right: 10px;
+    margin-bottom: 30px; 
+    float: right;
+}
+
