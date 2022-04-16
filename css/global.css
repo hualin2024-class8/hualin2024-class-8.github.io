@@ -19,3 +19,9 @@ body{
     float: right;
 }
 
+.great_people{
+    margin: 0 40px;
+    width: auto;
+    height: 150px;
+    background-color:rgb(225, 225, 225);
+}
