@@ -70,3 +70,10 @@ body{
 .author h2{
     color: rgb(50, 50, 50);
 }
+
+.teacher{
+    margin: 0 40px;
+    width: auto;
+    height: 150px;
+    background-color:rgb(225, 225, 225);
+}
